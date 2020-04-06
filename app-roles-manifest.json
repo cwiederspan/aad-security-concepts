@@ -1,0 +1,9 @@
+[
+    {
+        "allowedMemberTypes": ["User", "Application"],
+        "description": "This is a special app role used for testing",
+        "displayName": "Special",
+        "value": "special",
+        "isEnabled": "true"
+    }
+]
